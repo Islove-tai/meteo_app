@@ -1,2 +1,2 @@
 # meteo_app
-HTML, CSS et JavaScript
+Une application météo en HTML, CSS et JavaScript.
